@@ -1,0 +1,24 @@
+{
+  "name": "mmodule-5-lab-1",
+  "version": "1.0.0",
+  "description": "MModule 5 Lab 1: Using Git with VScode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graydeeee/MModule-5-Lab-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/graydeeee/MModule-5-Lab-1/issues"
+  },
+  "homepage": "https://github.com/graydeeee/MModule-5-Lab-1#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
